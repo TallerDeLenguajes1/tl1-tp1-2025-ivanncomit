@@ -1,0 +1,18 @@
+1- Crear y/o Abrir archivo .gitignore
+
+touch .gitignore si no existe
+abrir con algun editor de texto
+
+2- Agregar las cosas que se desea ignorar
+
+archivo especifico: archivo.txt
+carpeta completa: /NombreCarpeta/
+tipo de archivo: *.(extension del archivo) ej: *.exe
+
+3 - Guardar cambios
+
+4 - Verificar con git status --ignored
+
+5 - Confirmar cambios 
+(si un archivo ya habia sido agregado previamente a Git antes de ponerlo en .gitignore hay que eliminarlo del repositorio sin borrar el archivo localmente)
+
