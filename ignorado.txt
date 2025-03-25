@@ -16,3 +16,6 @@ tipo de archivo: *.(extension del archivo) ej: *.exe
 5 - Confirmar cambios 
 (si un archivo ya habia sido agregado previamente a Git antes de ponerlo en .gitignore hay que eliminarlo del repositorio sin borrar el archivo localmente)
 
+
+Opcional - Para hacerlo de manera mas veloz se puede usar gitignore.io
+Seleccionar que archivos o tipos de archivos eliminar y te da el texto que resuelva. 
