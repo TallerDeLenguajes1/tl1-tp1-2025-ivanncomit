@@ -22,7 +22,7 @@ int main(){
     printf("Dirección de memoria del puntero: %p\n", (void*)&puntero);
     
     // 5) Mostrar el tamaño de memoria utilizado por la variable usando sizeof()
-    printf("Tamaño de memoria de la variable: %zu bytes\n", sizeof(variable));
+    printf("Tamaño de memoria de la variable: %d bytes\n", sizeof(variable));
     
     return 0;
 }
